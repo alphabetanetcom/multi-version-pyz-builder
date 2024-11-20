@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: Multi-Version PYZ Builder
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pavel
+    family-names: Izosimov
+    affiliation: Alpha Beta Network
+    orcid: 'https://orcid.org/0009-0004-7126-6743'
+    website: 'https://alphabetanet.com'
+repository-code: >-
+  https://github.com/alphabetanetcom/multi-version-pyz-builder
+url: 'https://alphabetanet.com/'
+repository: >-
+  https://gitlab.com/alphabetanetcom/multi-version-pyz-builder
+repository-artifact: >-
+  https://github.com/alphabetanetcom/multi-version-pyz-builder/releases
+abstract: >-
+  The Multi-Version PYZ Builder Script is a command-line tool 
+  designed to create a Universal Python Module optimized for 
+  cross-platform and multi-version compatibility. It allows 
+  developers to bundle multiple protected .pyc files—each 
+  corresponding to a different Python version—into a single .pyz
+  archive. This approach significantly enhances Python code 
+  security by using previously compiled and protected versions of
+  code, making it more difficult for others to reverse-engineer 
+  or analyze the source code.
+
+keywords:
+  - secure code sharing
+  - source code protection
+  - python code encryption
+  - python security
+  - code protection
+  - secure file transfer
+  - python development
+  - intellectual property protection
+  - code security
+  - secure distribution
+  - security tools
+  - secure sharing
+  - cross platform
+version: v1.3-beta.1
+date-released: '2024-11-20'
+license-url: 'https://github.com/alphabetanetcom/multi-version-pyz-builder/blob/main/LICENSE.md'
