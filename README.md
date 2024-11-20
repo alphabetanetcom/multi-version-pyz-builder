@@ -1,6 +1,6 @@
 # Multi-Version PYZ Builder Script Documentation
 
-
+[![DOI](https://zenodo.org/badge/890990481.svg)](https://doi.org/10.5281/zenodo.14194336)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![Cross-Platform](https://img.shields.io/badge/cross--platform-yes-brightgreen.svg)](#4-detailed-description-of-operation)
