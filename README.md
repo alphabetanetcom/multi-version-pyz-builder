@@ -3,13 +3,13 @@
 
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
-[![Cross-Platform](https://img.shields.io/badge/cross--platform-yes-brightgreen.svg)](#)
-[![Multi-Version](https://img.shields.io/badge/multi--version-support-brightgreen.svg)](#)
-[![Code Protection](https://img.shields.io/badge/code-protection-green.svg)](#main-functions-of-the-script)
-[![Secure Code](https://img.shields.io/badge/secure-code-green.svg)](#introduction)
-[![Code Obfuscation](https://img.shields.io/badge/code-obfuscation-blue.svg)](#main-functions-of-the-script)
-[![Secure Transfer](https://img.shields.io/badge/secure-transfer-blue.svg)](#introduction)
-[![Encryption](https://img.shields.io/badge/encryption-enabled-brightgreen.svg)](#main-functions-of-the-script)
+[![Cross-Platform](https://img.shields.io/badge/cross--platform-yes-brightgreen.svg)](#4-detailed-description-of-operation)
+[![Multi-Version](https://img.shields.io/badge/multi--version-support-brightgreen.svg)](#3-main-functions-of-the-script)
+[![Code Protection](https://img.shields.io/badge/code-protection-green.svg)](#3-main-functions-of-the-script)
+[![Secure Code](https://img.shields.io/badge/secure-code-green.svg)](#1-introduction)
+[![Code Obfuscation](https://img.shields.io/badge/code-obfuscation-blue.svg)](#6-recommendations-and-best-practices)
+[![Secure Transfer](https://img.shields.io/badge/secure-transfer-blue.svg)](#1-introduction)
+[![Encryption](https://img.shields.io/badge/encryption-enabled-brightgreen.svg)](#6-recommendations-and-best-practices)
 
 *Version: 1.3\
 © 2024 αβ.net (alphabetanet.com) - Alpha Beta Network. All Rights Reserved.*
