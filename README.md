@@ -45,7 +45,7 @@ The **Multi-Version PYZ Builder Script** is a command-line tool designed to crea
 
 - **Multi-Version Support**: Supports multiple Python versions by including protected `.pyc` files for each targeted Python version. Automatically detects the current Python interpreter version at runtime and executes the corresponding code.
 
-- **Enhanced Code Protection**: Integrates with the **Local Python Code Protector Script** or any other protection tool to use previously compiled and protected `.pyc` files, adding layers of **code obfuscation** and **encryption**.
+- **Enhanced Code Protection**: Integrates with the [**Local Python Code Protector Script**](https://github.com/alphabetanetcom/local-python-code-protector) or any other protection tool to use previously compiled and protected `.pyc` files, adding layers of **code obfuscation** and **encryption**.
 
 - **Secure Code Sharing**: Facilitates **secure code distribution** without exposing the original source code, aligning with **Python code security best practices**.
 
