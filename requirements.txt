@@ -1,0 +1,4 @@
+requests
+psutil
+cryptography
+astor
