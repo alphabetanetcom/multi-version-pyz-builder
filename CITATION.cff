@@ -42,6 +42,6 @@ keywords:
   - security tools
   - secure sharing
   - cross platform
-version: v1.3-beta.1
+version: v1.3.1-beta.1
 date-released: '2024-11-20'
 license-url: 'https://github.com/alphabetanetcom/multi-version-pyz-builder/blob/main/LICENSE.md'
